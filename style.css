@@ -1,0 +1,37 @@
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    /* margin-top: 130px; */
+    border: none;
+    width: 648px;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.btn{
+    cursor: pointer;
+    width: 8rem;
+}
+
+
+.counterArea{
+    text-align: center;
+    /* margin-top: 5rem; */
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+}
+
+.negative{
+    color:#dc3545;
+}
+
+.positive{
+    color: #198754;
+}
+
+.zero{
+    color: #000000;
+}
